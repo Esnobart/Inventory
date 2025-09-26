@@ -1,0 +1,38 @@
+{
+  "inventory": {
+    "items": {},
+    "total_weight": 0
+  },
+  "location": [
+    {
+      "id": 1,
+      "name": "Umbrella",
+      "weight": 2,
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "name": "Heavy Iron Key",
+      "weight": 1,
+      "quantity": 5
+    },
+    {
+      "id": 3,
+      "name": "Bell Striker",
+      "weight": 8,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "Wooden Broom",
+      "weight": 5,
+      "quantity": 2
+    },
+    {
+      "id": 5,
+      "name": "Iron Poker",
+      "weight": 5,
+      "quantity": 4
+    }
+  ]
+}
